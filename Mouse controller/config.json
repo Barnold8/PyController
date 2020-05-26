@@ -1,0 +1,65 @@
+{
+
+	"config_button": [
+
+		{
+			"id": "01",
+			"type": "button",
+			"bool": false
+
+		}
+
+
+	],
+
+
+
+
+
+
+	"config_stick": [
+
+		{
+			"id": "02",
+			"type": "stick",
+			"bool": false
+
+		}
+
+
+
+
+	],
+
+
+
+
+
+
+	"config_hat": [
+
+		{
+			"id": "03",
+			"type": "hat",
+			"bool": false
+
+		}
+
+	],
+
+
+
+
+
+	"controller": [
+
+
+		{
+			"device_num": 0
+
+		}
+
+	]
+
+
+}
